@@ -46,14 +46,13 @@
 </p>
 
 ---
-
 <h2 align="center">💻 Projects 💻</h2>
 <div align="center">
   <a href="https://github.com/Vinit-0001/Text-Summarizatiion.git" title="Text Summarization>
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=VInit-0001&repo=text-summarization&theme=react&border_color=61dafb&border_radius=8">
+     <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinit-0001&repo=text-summarization&theme=react&border_color=61dafb&border_radius=8">
   </a>
 </div>
-
+---
 <h2 align="center">📲 Connect with Me 📲</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/vinit-pitrubhakta/" target="_blank">
