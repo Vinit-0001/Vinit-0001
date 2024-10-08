@@ -54,10 +54,10 @@
   </a>
 <!--   <a href="https://github.com/Samir433/PDF_QA_USING_OPENAI_API" title="PDF Chat BOT">
     <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir433&repo=PDF_QA_USING_OPENAI_API&theme=react&border_color=61dafb&border_radius=8">
-  </a>
+  </a> --!>
+  
 </div>
- -->
----
+--
 
 <h2 align="center">📲 Connect with Me 📲</h2>
 <p align="center">
