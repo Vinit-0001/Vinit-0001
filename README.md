@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;Welcome+to+my+GitHub!;I+am+Samir+Atpadkar;ML+Engineer&center=true&size=30&color=64dafb&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;Welcome+to+my+GitHub!;I+am+Vinit+Pitrubhakta;ML+Engineer&center=true&size=30&color=64dafb&pause=1000">
   </a>
 </h1>
 
@@ -31,18 +31,18 @@
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
-  <img align="center" width="48%" src="https://streak-stats.demolab.com/?user=Samir433&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Samir433&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+  <img align="center" width="48%" src="https://streak-stats.demolab.com/?user=Vinit-0001&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Vinit-0001&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir433&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinit-0001&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
 </p>
 
 ---
 
 <h2 align="center">🔥 GitHub Activity 🔥</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samir433&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinit-0001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -61,16 +61,16 @@
 
 <h2 align="center">📲 Connect with Me 📲</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/samir-atpadkar-199233235/" target="_blank">
+  <a href="https://www.linkedin.com/in/vinit-pitrubhakta/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:samatpadkar183@gmail.com" target="_blank">
+  <a href="mailto:vinitpitrubhakta@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.kaggle.com/samiratpadkar" target="_blank">
+  <a href="https://www.kaggle.com/vinitpitrubhakta" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://leetcode.com/u/Samir04/" target="_blank">
+  <a href="https://leetcode.com/u/Vinit_K_P/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
